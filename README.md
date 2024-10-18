@@ -7,4 +7,5 @@
   <li>💬 По всем вопросам писать в бота <a href="https://t.me/DiyElectronics_Bot">DiyElectronicsBot</a></li>
   <li>💡 Мой канал в ТГ <a href="https://t.me/Idea_diy_electronics_bot">IdeaDiyElectronicsBot</a></li>
 </ul>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/26MPZ1Wx/logo.png' border='0' alt='logo'/></a>
 <img src="https://i.postimg.cc/26MPZ1Wx/logo.png">
