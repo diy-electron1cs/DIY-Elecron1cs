@@ -8,3 +8,6 @@
   <li>💡 Мой канал в ТГ <a href="https://t.me/Idea_diy_electronics_bot">IdeaDiyElectronicsBot</a></li>
 </ul>
 <img src="https://i.postimg.cc/fTcmp18z/IMG-20241018-161334-516.png" width="200">
+<img src="https://i.postimg.cc/fTcmp18z/IMG-20241018-161334-516.png" width="200">
+<img src="https://i.postimg.cc/fTcmp18z/IMG-20241018-161334-516.png" width="200">
+<img src="https://i.postimg.cc/fTcmp18z/IMG-20241018-161334-516.png" width="200">
