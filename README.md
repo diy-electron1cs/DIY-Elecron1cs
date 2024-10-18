@@ -7,8 +7,4 @@
   <li>💬 По всем вопросам писать в бота <a href="https://t.me/DiyElectronics_Bot">DiyElectronicsBot</a></li>
   <li>💡 Мой канал в ТГ <a href="https://t.me/Idea_diy_electronics_bot">IdeaDiyElectronicsBot</a></li>
 </ul>
-
-<img src="https://i.postimg.cc/GmR9D2Jr/Micros.png" width="60">
-<img src="https://i.postimg.cc/ZKG5SqDp/Git-Hub-Logo2.png" width="60">
-https://i.postimg.cc/t4svhqXS/micros2.png
-<img src="https://i.postimg.cc/t4svhqXS/micros2.png" width="60">
+<img src="https://i.postimg.cc/fTcmp18z/IMG-20241018-161334-516.png" width="100">
