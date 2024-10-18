@@ -7,4 +7,4 @@
   <li>💬 По всем вопросам писать в бота <a href="https://t.me/DiyElectronics_Bot">DiyElectronicsBot</a></li>
   <li>💡 Свои идеи для канала кидать сюда: <a href="https://t.me/Idea_diy_electronics_bot">IdeaDiyElectronicsBot</a></li>
 </ul>
-<img src="https://i.postimg.cc/dVR6RLb9/Git-Picture1.png" width="380">
+<img src="https://i.postimg.cc/dVR6RLb9/Git-Picture1.png" width="430">
