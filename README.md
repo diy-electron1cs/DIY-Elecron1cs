@@ -1,4 +1,4 @@
-<h1><img src="https://i.postimg.cc/26MPZ1Wx/logo.png" width="60"> Это GitHub DIY electronics!</h1>
+<h1><img src="https://postimg.cc/nC1JKnxh" width="60"> Это GitHub DIY electronics!</h1>
 <p>Здесь расположены исходники с канала <a href="https://t.me/DIYelectronics23">DIY электроника</a>
 <h2>⚙️ Основное:</h2>
 <ul>
