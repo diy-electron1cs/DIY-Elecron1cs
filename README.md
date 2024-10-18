@@ -7,4 +7,4 @@
   <li>💬 По всем вопросам писать в бота <a href="https://t.me/DiyElectronics_Bot">DiyElectronicsBot</a></li>
   <li>💡 Мой канал в ТГ <a href="https://t.me/Idea_diy_electronics_bot">IdeaDiyElectronicsBot</a></li>
 </ul>
-<img src="https://avatars.mds.yandex.net/i?id=4f7586d49edaa427e07a8819562fc284_l-5248434-images-thumbs&n=13">
+<img src="https://postimg.cc/5Y57cNnH">
