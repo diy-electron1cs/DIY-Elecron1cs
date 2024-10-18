@@ -1,6 +1,6 @@
-### Это GitHub DIY electronics!
+### ⚙️ Это GitHub DIY electronics!
 Здесь расположены исходники с канала [DIY электроника](https://t.me/DIYelectronics23)
-### Основное:
+### ⚙️ Основное:
 - ⚡ Мой канал в ТГ [DIY электроника ТГ](https://t.me/DIYelectronics23)
 - ⚡ Мой канал на Rutube [DIY электроника Rutube](https://rutube.ru/channel/46650767)
 - 💬 По всем вопросам писать в бота [DiyElectronicsBot](https://t.me/DiyElectronics_Bot)
