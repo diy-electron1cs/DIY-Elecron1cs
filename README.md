@@ -7,7 +7,23 @@
   <li>💬 По всем вопросам писать в бота <a href="https://t.me/DiyElectronics_Bot">DiyElectronicsBot</a></li>
   <li>⚡ Мой канал в ТГ <a href="https://t.me/Idea_diy_electronics_bot">IdeaDiyElectronicsBot</a></li>
 </ul>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+h1 {
+    color: #ffffff;
+    background-color: rgb(41, 65, 57);
+    font-family: "Rubik Dirt", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+  
+</style>
+
+
+<!--
 <h2>Последние видео:</h2>
 <iframe width="720" height="405" src="https://rutube.ru/play/embed/5020ac7a871344259dd54d87643a3872/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <iframe width="720" height="405" src="https://rutube.ru/play/embed/fb538ce9020a7fe4eae813e19eb1e83a/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <iframe width="720" height="405" src="https://rutube.ru/play/embed/4efe5c54a10b43f9a9147f561d417f93/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+--!>
