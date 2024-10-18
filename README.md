@@ -1,13 +1,13 @@
-### ⚙️ Это GitHub DIY electronics!
-Здесь расположены исходники с канала [DIY электроника](https://t.me/DIYelectronics23)
-### ⚙️ Основное:
-- ⚡ Мой канал в ТГ [DIY электроника ТГ](https://t.me/DIYelectronics23)
-- ⚡ Мой канал на Rutube [DIY электроника Rutube](https://rutube.ru/channel/46650767)
-- 💬 По всем вопросам писать в бота [DiyElectronicsBot](https://t.me/DiyElectronics_Bot)
-- 💡 Бот для идей в канал [IdeaDiyElectronicsBot](https://t.me/Idea_diy_electronics_bot)
-
-<!--
-Мой ТГ: https://t.me/DIYelectronics23
-Rutube: https://rutube.ru/channel/46650767
-Телеграм-бот: https://t.me/DiyElectronics_Bot
---!>
+<h1>⚙️ Это GitHub DIY electronics!</h1>
+<p>Здесь расположены исходники с канала <a href="https://t.me/DIYelectronics23">DIY электроника</a>
+<h2>⚙️ Основное:</h2>
+<ul>
+  <li>⚡ Мой канал в ТГ <a href="https://t.me/DIYelectronics23">DIY электроника ТГ</a></li>
+  <li>⚡ Мой канал на Rutube <a href="https://rutube.ru/channel/46650767">DIY электроника Rutube</a></li>
+  <li>💬 По всем вопросам писать в бота <a href="https://t.me/DiyElectronics_Bot">DiyElectronicsBot</a></li>
+  <li>⚡ Мой канал в ТГ <a href="https://t.me/Idea_diy_electronics_bot">IdeaDiyElectronicsBot</a></li>
+</ul>
+<h2>Последние видео:</h2>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/5020ac7a871344259dd54d87643a3872/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/fb538ce9020a7fe4eae813e19eb1e83a/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe width="720" height="405" src="https://rutube.ru/play/embed/4efe5c54a10b43f9a9147f561d417f93/" frameBorder="0" allow="clipboard-write; autoplay" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
