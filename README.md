@@ -1,4 +1,4 @@
-<h1 style="color: blue;"><img src="https://i.postimg.cc/ZKG5SqDp/Git-Hub-Logo2.png" width="30"> Это GitHub DIY electronics!</h1>
+<h1><img src="https://i.postimg.cc/ZKG5SqDp/Git-Hub-Logo2.png" width="30"> Это GitHub DIY electronics!</h1>
 <p>Здесь расположены исходники с канала <a href="https://t.me/DIYelectronics23">DIY электроника</a>
 <h2><img src="https://i.postimg.cc/ZKG5SqDp/Git-Hub-Logo2.png" width="30"> Основное:</h2>
 <ul>
