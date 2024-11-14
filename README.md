@@ -1,4 +1,4 @@
-<h1><img src="https://i.postimg.cc/ZKG5SqDp/Git-Hub-Logo2.png" width="30"></h1>
+<h1><img src="https://i.postimg.cc/ZKG5SqDp/Git-Hub-Logo2.png" width="50"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Это+GitHub+DIY+electronics!)](https://git.io/typing-svg)
 
