@@ -25,5 +25,5 @@
 href="https://github.com/DIY-Elecron1cs/DE_PinModes">DE_PinModes</a>
 <p> – библиотека для работы с цифровыми пинами Arduino</p>
 
-href="https://github.com/DIY-Elecron1cs/DE_delays">DE_delays</a>
+href="https://github.com/DIY-Elecron1cs/DE_delay">DE_delays</a>
 <p> – простая замена delay() и delayMicroseconds() на базе millis() и micros()</p>
