@@ -9,7 +9,7 @@
   <li>💡 Свои идеи для канала кидать сюда: <a href="https://t.me/Idea_diy_electronics_bot">IdeaDiyElectronicsBot</a></li>
 </ul>
 <img src="https://i.postimg.cc/dVR6RLb9/Git-Picture1.png" width="470">
-<h2>мои библиотеки<h2>
+<h2>мои библиотеки</h2>
 <a href="https://github.com/DIY-Elecron1cs/DE_Years>DE_Years</a>
 <p> – библиотека для работы с годами, веками и римскими цифрами</p>
 
