@@ -32,4 +32,6 @@
 <p> – простая замена delay() и delayMicroseconds() на базе millis() и micros()</p>
 
 <h2>GitHub Trophy</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=DIY-Elecron1cs)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?DIY-Elecron1cs=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
