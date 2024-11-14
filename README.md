@@ -27,3 +27,6 @@ href="https://github.com/DIY-Elecron1cs/DE_PinModes">DE_PinModes</a>
 
 href="https://github.com/DIY-Elecron1cs/DE_delay">DE_delays</a>
 <p> – простая замена delay() и delayMicroseconds() на базе millis() и micros()</p>
+
+
+https://github.com/DIY-Elecron1cs/DE_delay
