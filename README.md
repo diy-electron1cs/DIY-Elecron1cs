@@ -34,7 +34,7 @@
 <h2>GitHub Trophy</h2>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?DIY-Elecron1cs=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?DIY electronics=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
