@@ -1,9 +1,6 @@
 <h1><img src="https://i.postimg.cc/ZKG5SqDp/Git-Hub-Logo2.png" width="30"> Это GitHub DIY electronics!</h1>
 
-<p>Здесь расположены исходники с канала
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Здесь+расположены+исходники+с+канала)](https://git.io/typing-svg)
-
+<p>Здесь расположены исходники с канала</p>
 
 <a href="https://t.me/DIYelectronics23">DIY электроника</a>
 
