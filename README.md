@@ -27,9 +27,3 @@
 
 <a href="https://github.com/DIY-Elecron1cs/DE_delay"><b>DE_delay</b></a>
 <p> – простая замена delay() и delayMicroseconds() на базе millis() и micros()</p>
-
-<style>
-a{
-background-color: red;
-}
-</style>
