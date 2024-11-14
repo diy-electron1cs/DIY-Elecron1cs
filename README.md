@@ -32,6 +32,3 @@
 <p> – простая замена delay() и delayMicroseconds() на базе millis() и micros()</p>
 
 
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?https://DIY-Elecron1cs=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
