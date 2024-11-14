@@ -19,8 +19,8 @@
 <img src="https://i.postimg.cc/dVR6RLb9/Git-Picture1.png" width="470">
 
 <h2>мои библиотеки</h2>
-<a href="https://github.com/DIY-Elecron1cs/DE_Years">DE_Years</a><p> – библиотека для работы с годами, веками и римскими цифрами</p>
+<a href="https://github.com/DIY-Elecron1cs/DE_Years"><b>DE_Years</b></a><p> – библиотека для работы с годами, веками и римскими цифрами</p>
 
-<a href="https://github.com/DIY-Elecron1cs/DE_PinModes">DE_PinModes</a><p> – библиотека для работы с цифровыми пинами Arduino</p>
+<a href="https://github.com/DIY-Elecron1cs/DE_PinModes"><b>DE_PinModes</b></a><p> – библиотека для работы с цифровыми пинами Arduino</p>
 
-<a href="https://github.com/DIY-Elecron1cs/DE_delay">DE_delay</a><p> – простая замена delay() и delayMicroseconds() на базе millis() и micros()</p>
+<a href="https://github.com/DIY-Elecron1cs/DE_delay"><b>DE_delay</b></a><p> – простая замена delay() и delayMicroseconds() на базе millis() и micros()</p>
