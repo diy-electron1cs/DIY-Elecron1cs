@@ -31,11 +31,7 @@
 <a href="https://github.com/DIY-Elecron1cs/DE_delay"><b>DE_delay</b></a>
 <p> – простая замена delay() и delayMicroseconds() на базе millis() и micros()</p>
 
-<h2>GitHub Trophy</h2>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?DIY electronics=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+//<h2>GitHub Trophy</h2>
 
 
 
