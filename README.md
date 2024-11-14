@@ -26,5 +26,4 @@
 <p> – библиотека для работы с цифровыми пинами Arduino</p>
 
 <a href="https://github.com/DIY-Elecron1cs/DE_delay">DE_delay</a>
-
 <p> – простая замена delay() и delayMicroseconds() на базе millis() и micros()</p>
