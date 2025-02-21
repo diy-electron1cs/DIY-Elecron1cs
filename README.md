@@ -9,7 +9,7 @@
 <ul>
 <li><img src="https://i.postimg.cc/t4svhqXS/micros2.png" width="25"> Мой сайт: <a href="https://diy-elecron1cs.github.io/DIY-electronics//index.html">DIY электроника GIT</a></li>  <!-- сайт -->
 
-  <li><img src="https://i.postimg.cc/t4svhqXS/micros2.png" width="25"> Мой канал в ТГ: <a href="https://t.me/DIYelectronics23">DIY электроника ТГ</a></li>  <!-- ТГК -->
+  <li><img src="https://i.postimg.cc/t4svhqXS/micros2.png" width="25"> Мой канал в ТГ: <a href="https://t.me/diy_electron1cs">DIY электроника ТГ</a></li>  <!-- ТГК -->
 
   <li><img src="https://i.postimg.cc/t4svhqXS/micros2.png" width="25"> Мой канал на Rutube: <a href="https://rutube.ru/channel/46650767">DIY электроника Rutube</a></li>  <!-- rutube -->
 
