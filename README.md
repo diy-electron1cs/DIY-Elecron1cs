@@ -31,7 +31,6 @@
   <li>
     <a href="https://github.com/DIY-Elecron1cs/DE_rgb"><b>DE_rgb</b></a>                                      <!-- DE_rgb -->
     <p> – библиотека для работы с RGB-светодиодами. Поддерживает управление через HEX-палитру, градиенты</p>
-  </li>
 
   <li>
     <a href="https://github.com/DIY-Elecron1cs/DE_PinModes"><b>DE_PinModes</b></a>                            <!-- DE_PinModes -->
