@@ -7,7 +7,7 @@
 <h2>⚙ Основное:</h2>  <!-- основное -->
 
 <ul>
-  <li>сайт: <a href="https://diy-elecron1cs.github.io/DIY-electronics//index.html">DIY электроника GIT</a> (устаревшая версия)</li>  <!-- сайт -->
+  <li>сайт: <a href="https://diy-elecron1cs.github.io/DIY-electronics//index.html">DIY электроника</a> (устаревшая версия)</li>  <!-- сайт -->
   <li>ТГК: <a href="https://t.me/diy_electron1cs">DIY электроника ТГ</a></li>  <!-- ТГК -->
   <li>Rutube: <a href="https://rutube.ru/channel/46650767">DIY электроника Rutube</a></li>  <!-- rutube -->
   <li>По всем вопросам писать в <a href="https://t.me/diy_electronics_chat">DE chat</a></li>  <!-- чат -->
