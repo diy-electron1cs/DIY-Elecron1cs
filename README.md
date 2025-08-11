@@ -1,4 +1,4 @@
-<h1>⚙ Это GitHub DIY electronics!</h1>  <!-- заголовок -->
+<h1>DIY electronics</h1>  <!-- заголовок -->
 
 [![Foo](https://img.shields.io/badge/ПОДПИСАТЬСЯ-НА%20КАНАЛ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/diy_electron1cs)  <!-- ТГК -->
 
